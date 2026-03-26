@@ -3,6 +3,7 @@
 ## Project Description
 A simple desktop application built with C# and Windows Forms that provides the classic XO (Tic-Tac-Toe) game for two players (Player vs Player).  
 The application allows you to choose the number of matches (1, 3, or 5) and determines the winner of each match. At the end, it declares the overall champion and displays their name along with a celebratory image.
+<img width="932" height="552" alt="xo1" src="https://github.com/user-attachments/assets/cfffdf9f-e924-48e8-a55a-dcaca8f18a67" />
 
 ---
 
@@ -10,6 +11,7 @@ The application allows you to choose the number of matches (1, 3, or 5) and dete
 - Programming Language: C#
 - Framework: .NET Framework (or .NET Core/5+ with Windows Forms)
 - Development Environment: Visual Studio 2022 (or any version supporting Windows Forms)
+<img width="926" height="545" alt="xo2" src="https://github.com/user-attachments/assets/910c4650-60d6-472a-ac22-82a74d941d93" />
 
 ---
 
